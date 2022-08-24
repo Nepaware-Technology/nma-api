@@ -16,6 +16,10 @@ const pastExecutives = require('./repo/pastExecutives.json')
 const pastPresidents = require('./repo/pastPresidents.json')
 const photos = require('./repo/photos.json')
 const videos = require('./repo/videos.json')
+const countryList = require('./repo/countryList.json')
+const branchList = require('./repo/branchList.json')
+const provinceList = require('./repo/provinceList.json')
+const districtList = require('./repo/districtList.json')
 
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/aboutUs', (req, res) => {
@@ -138,6 +142,22 @@ app.get('/photos', (req, res) => {
 
 app.get('/videos', (req, res) => {
     res.json(videos)
+})
+
+app.get('/countryList', (req, res) => {
+    res.json(countryList)
+})
+
+app.get('/branchList', (req, res) => {
+    res.json(branchList)
+})
+
+app.get('/provinceList', (req, res) => {
+    res.json(provinceList)
+})
+
+app.get('/districtList', (req, res) => {
+    res.json(districtList)
 })
 
 app.listen(process.env.PORT || 3000, () =>

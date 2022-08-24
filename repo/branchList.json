@@ -1,0 +1,211 @@
+[
+        {
+            "branch_count": 7355,
+            "id": 1,
+            "province_id": null,
+            "branch_central": 1,
+            "branch_address": "Exhibition Road Kathmandu Nepal.",
+            "branch_email": "nma@nma.org.np",
+            "branch_tel": "014231825",
+            "branch_name": "Central Branch",
+            "branch_id": 1
+        },
+        {
+            "branch_count": 725,
+            "id": 6,
+            "province_id": 1,
+            "branch_central": 0,
+            "branch_address": "Biratnagar",
+            "branch_email": "koshi@nma.org.np",
+            "branch_tel": "9852021488",
+            "branch_name": "Koshi Branch",
+            "branch_id": 6
+        },
+        {
+            "branch_count": 565,
+            "id": 13,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Chitwan",
+            "branch_email": "chitwan@nma.org.np",
+            "branch_tel": "9855055385",
+            "branch_name": "Chitwan Branch",
+            "branch_id": 13
+        },
+        {
+            "branch_count": 429,
+            "id": 8,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Dharan",
+            "branch_email": "dharan@nma.org.np",
+            "branch_tel": "9842076792",
+            "branch_name": "Dharan Branch",
+            "branch_id": 8
+        },
+        {
+            "branch_count": 418,
+            "id": 3,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Traffic Chowak , Butwal",
+            "branch_email": "lumbini@nma.org.np",
+            "branch_tel": "9857035444",
+            "branch_name": "Lumbini Branch",
+            "branch_id": 3
+        },
+        {
+            "branch_count": 385,
+            "id": 12,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Narayani",
+            "branch_email": "narayani@nma.org.mp",
+            "branch_tel": "9845021136",
+            "branch_name": "Narayani Branch",
+            "branch_id": 12
+        },
+        {
+            "branch_count": 359,
+            "id": 14,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Gandaki",
+            "branch_email": "gandaki@nma.org.np",
+            "branch_tel": "9846025771",
+            "branch_name": "Gandaki Branch",
+            "branch_id": 14
+        },
+        {
+            "branch_count": 355,
+            "id": 11,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Janakpur",
+            "branch_email": "janakpur@nma.org.np",
+            "branch_tel": "9854021133",
+            "branch_name": "Janakpur Branch",
+            "branch_id": 11
+        },
+        {
+            "branch_count": 247,
+            "id": 7,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Bheri Zonal Hospital",
+            "branch_email": "bheri@nma.org.np",
+            "branch_tel": "9851049601",
+            "branch_name": "Bheri Branch",
+            "branch_id": 7
+        },
+        {
+            "branch_count": 158,
+            "id": 5,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Mechi Zonal Hospital, Bhadrapur, Jhapa",
+            "branch_email": "mechi@nma.org.np",
+            "branch_tel": "9852672327",
+            "branch_name": "Mechi Branch",
+            "branch_id": 5
+        },
+        {
+            "branch_count": 104,
+            "id": 2,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Setri Pradeshik Hospital",
+            "branch_email": "seti@nma.org.np",
+            "branch_tel": "9841525670",
+            "branch_name": "Seti Branch",
+            "branch_id": 2
+        },
+        {
+            "branch_count": 97,
+            "id": 18,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Dhangadi",
+            "branch_email": null,
+            "branch_tel": null,
+            "branch_name": "Dhangadi",
+            "branch_id": 18
+        },
+        {
+            "branch_count": 96,
+            "id": 4,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Rapti Zonal Hospital",
+            "branch_email": "rapti@nma.org.np",
+            "branch_tel": "9851007361",
+            "branch_name": "Dang Branch",
+            "branch_id": 4
+        },
+        {
+            "branch_count": 79,
+            "id": 17,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Palpa",
+            "branch_email": "palpa@nma.org.np",
+            "branch_tel": "9851089309",
+            "branch_name": "Palpa Branch",
+            "branch_id": 17
+        },
+        {
+            "branch_count": 61,
+            "id": 10,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Lahan",
+            "branch_email": "lahan@nma.org.np",
+            "branch_tel": "9819971099",
+            "branch_name": "Lahan Branch",
+            "branch_id": 10
+        },
+        {
+            "branch_count": 54,
+            "id": 9,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Sagarmatha",
+            "branch_email": "sagarmatha@nma.org.np",
+            "branch_tel": "9818720069",
+            "branch_name": "Sagarmatha Branch",
+            "branch_id": 9
+        },
+        {
+            "branch_count": 53,
+            "id": 15,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Surkhet",
+            "branch_email": "surkhet@nma.org.np",
+            "branch_tel": "9851075194",
+            "branch_name": "Surkhet Branch",
+            "branch_id": 15
+        },
+        {
+            "branch_count": 44,
+            "id": 16,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Jumla",
+            "branch_email": "jumla@nma.org.np",
+            "branch_tel": "9851064451",
+            "branch_name": "Jumla Branch",
+            "branch_id": 16
+        },
+        {
+            "branch_count": 1,
+            "id": 19,
+            "province_id": null,
+            "branch_central": 0,
+            "branch_address": "Hetauda",
+            "branch_email": null,
+            "branch_tel": null,
+            "branch_name": "Hetauda",
+            "branch_id": 19
+        }
+    ]
