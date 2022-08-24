@@ -20,6 +20,7 @@ const countryList = require('./repo/countryList.json')
 const branchList = require('./repo/branchList.json')
 const provinceList = require('./repo/provinceList.json')
 const districtList = require('./repo/districtList.json')
+const banners = require('./repo/banner.json')
 
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/aboutUs', (req, res) => {
@@ -158,6 +159,10 @@ app.get('/provinceList', (req, res) => {
 
 app.get('/districtList', (req, res) => {
     res.json(districtList)
+})
+
+app.get('/banners', (req, res) => {
+    res.json(banners)
 })
 
 app.listen(process.env.PORT || 3000, () =>
